@@ -4,7 +4,6 @@ import subprocess
 from review_comments_report_chk import review_comm_chk
 from datetime import date
 
-
 processed_file_folder = r"D:\Utilities\Previous_Code_Review_Reports"
 log_file_name = r"D:\Utilities\code_review_comments_report_check_log.txt"
 file_name = '-'
